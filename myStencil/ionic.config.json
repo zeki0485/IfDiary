@@ -1,0 +1,7 @@
+{
+  "name": "myStencil",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
